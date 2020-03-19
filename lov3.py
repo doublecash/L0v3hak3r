@@ -13,14 +13,14 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-    echo $i"       [•]"$me"─────────────────────────────────────────── "$i"[•]"
+    echo $i"       [|]"$me"─────────────────────────────────────────── "$i"[|]"
      echo $i"        |"$cy"        Pakistan  DARK  TERMUX ASSOCIATE      "$i"|"
      echo $i"        |"$me"───────────────────────────────────────────── "$i"|"
      echo $i"        |"$pu"    Auther :"$bi" lovehacker....                   "$i"|"
      echo $i"        |"$pu"    Facebook :"$bi" Ali Ahmad......                "$i"|"
      echo $i"        |"$pu"    Contact WhatsApp :"$bi" 03094161457            "$i"|"
      echo $i"        |"$pu"   Contact Gmail :"$bi" Frends Subscrib My Chenal  "$i"|"
-    echo $i"       [•]"$me"────────────────────────────────────────────"$i"[•]"
+    echo $i"       [|]"$me"────────────────────────────────────────────"$i"|"
 echo
  
  
